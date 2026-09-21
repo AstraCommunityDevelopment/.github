@@ -20,7 +20,7 @@ Bienvenido a la organización de **Astra Community Development**. Somos un equip
 
 * 🌐 **Sitio Web:** [Tusitio.com](https://example.com)
 * ✉️ **Contacto / Soporte:** [contacto@ejemplo.com](mailto:contacto@ejemplo.com)
-* 💬 **Comunidad:** [Únete a nuestro Discord / Telegram](#)
+* 💬 **Comunidad:** [Únete a nuestro Discord](https://discord.gg/astracommunity)
 
 ---
 
